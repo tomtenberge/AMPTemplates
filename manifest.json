@@ -1,9 +1,9 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
+	"id": "ec280171-c67b-4cf8-923f-ff27fea91ee1",
+	"authors": ["CubeCoders Limited", "AMP Community", "TomTenBerge"],
+	"origin": "https://github.com/tomtenberge/AMPTemplates.git",
+	"url": "https://github.com/tomtenberge/AMPTemplates",
 	"imagefile": "",
-	"prefix": "",
+	"prefix": "TtB",
 	"repotype": "AppTemplates"
 }
